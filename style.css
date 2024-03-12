@@ -19,5 +19,20 @@ body {
 }
 
 .bookmark-tab {
-    justify-content: space-between;
+    justify-content: space-around; 
+    display: flex; 
+}
+
+.btn {
+    padding: 10px 20px;
+    background-color: #ffb3b3;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: background-color 0.3s;
+    margin: 0 10px;
+}
+
+.btn:hover {
+    background-color: #ff8080;
 }
