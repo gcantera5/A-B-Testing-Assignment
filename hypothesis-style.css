@@ -57,6 +57,18 @@
     margin: 10px 0; 
 }
 
+.subtitles i {
+    font-size: 30px;
+}
+
+.subtitles li {
+    font-size: 30px;
+}
+
 .text {
+    margin-bottom: 50px;
+}
+
+.text p {
     font-size: 30px;
 }
